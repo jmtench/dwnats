@@ -24,6 +24,10 @@
 			<img src="img/cmc_soap.jpg" alt="Crow Mountain Crafts Soap">
 
 		</p>
+		<p>This is me adding something</p>
+		
+
+
 
 	</div>
 
