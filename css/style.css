@@ -1,0 +1,19 @@
+body {
+	background: #F7F5BC;
+	font-family: 'Arbutus Slab', sans-serif;
+	color: #139E2C;
+}
+
+a {
+	color: #139E2C;
+	text-decoration: none;
+}
+
+.nav {
+	background: #FFFFFF;
+	margin: 2px;
+	padding: 10px 5px;
+}
+a:hover; {
+	background: #;
+}
